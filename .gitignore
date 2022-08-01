@@ -32,4 +32,5 @@ yarn-error.log*
 .vercel
 
 #imagenes
-/public/assets/img
+#/public/assets/img
+.vercel
